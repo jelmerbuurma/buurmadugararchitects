@@ -22,8 +22,8 @@ email      : info@buurmadugararchitects.com #this is also the email contact form
 description: "BuurmaDugar architects"
 author     : BuurmaDugar architects
 logo:     
-path: assets\img\clients\BuurmaDugar_logo.jpg
-height: 60 
+path       : assets\img\clients\BuurmaDugar_logo.jpg
+height     : 60 
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
