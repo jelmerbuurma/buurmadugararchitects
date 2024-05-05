@@ -34,7 +34,6 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
       - url: https://instagram.com
